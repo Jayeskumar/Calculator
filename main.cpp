@@ -1,6 +1,8 @@
 #include <iostream>
 #include "Calc.h"
 using namespace std;
+//calculator application
+
 
 int main() {
    int sentinal = 0;
