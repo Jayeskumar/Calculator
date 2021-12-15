@@ -1,2 +1,2 @@
 # Calculator
-Calculator is a c++ application
+Calculator is a c++ Stand alone application
